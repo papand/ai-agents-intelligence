@@ -108,6 +108,21 @@ All of these are **deliberately out of scope** for this version.
 
 ---
 
+## 🔮 Future Directions
+
+This reference implementation is intentionally minimal.
+
+Possible future extensions include:
+
+- LLM-powered agent implementations
+- Tool-using agents (search, APIs, data sources)
+- More sophisticated alignment and conflict resolution strategies
+- Visualization layers or dashboards (in a separate repository)
+- Agent orchestration and memory patterns
+
+These are deliberately out of scope for the current version.
+
+
 ## 📄 License
 
 MIT License — free to use, modify, and learn from.
